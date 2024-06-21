@@ -1,3 +1,9 @@
+# Education
+**University of Illinois at Urbana-Champaign, Urbana, Illinois USA**
+	M.S., Library and Information Science, December 2014
+**DePaul University**
+	B.A., Fine Arts, June 2010
+ 
 # Publications
 
 Magni, I., Dubnicek, R., González, J.E., Swatscheno, J., Layne-Worthey, G., Downie, J.S., Graham, M., and Walsh, J. (2024). The SCWAReD Projects: Scholar-Curated Worksets for Analysis, Reuse & Dissemination. Unit I: Introduction to Social Justice in the Digital Humanities, #dariahTeach.

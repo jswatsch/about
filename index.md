@@ -1,8 +1,11 @@
 # Education
 **University of Illinois at Urbana-Champaign, Urbana, Illinois USA**
-	M.S., Library and Information Science, December 2014
+
+M.S., Library and Information Science, December 2014
+ 
 **DePaul University**
-	B.A., Fine Arts, June 2010
+
+B.A., Fine Arts, June 2010
  
 # Publications
 

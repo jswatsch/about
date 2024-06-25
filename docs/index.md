@@ -22,9 +22,9 @@ executing services and activities that help researchers, students, and teachers 
 
 ## University of Illinois at Chicago
 
-University of Illinois at Chicago, Richard J. Daley Library, Chicago, IL
-
 **Instructor and Digital Publishing Librarian**
+
+University of Illinois at Chicago, Richard J. Daley Library, Chicago, IL
 
 *November 2018 – May 2022*
 
@@ -32,27 +32,27 @@ Leads activities to advance library publishing services, including journals and 
 
 ## University of Illinois Urbana-Champaign
 
-University of Illinois Urbana-Champaign, University Library, Urbana, IL
-
 **Visiting Digital Publishing Specialist**
 
-Communicated with publishing partners regarding the content and features of online publications. Worked with stakeholders to define the scope and objectives of digital publishing projects. Created and documented procedures for preparing and loading content into digital publishing platforms. Provided quality control for digital publications by conducting technical, usability, and accessibility checks. Provided instruction for the online digital publishing platforms Scalar, Omeka, and Pressbooks Promoted and supported the creation of Open Educational Resources on campus. Pursued research in library publishing and open education.
+University of Illinois Urbana-Champaign, University Library, Urbana, IL
 
 *August 2016 – November 2018*
 
+Communicated with publishing partners regarding the content and features of online publications. Worked with stakeholders to define the scope and objectives of digital publishing projects. Created and documented procedures for preparing and loading content into digital publishing platforms. Provided quality control for digital publications by conducting technical, usability, and accessibility checks. Provided instruction for the online digital publishing platforms Scalar, Omeka, and Pressbooks Promoted and supported the creation of Open Educational Resources on campus. Pursued research in library publishing and open education.
+
 ## DePaul University
 
-DePaul University, John T. Richardson Library, Chicago, IL				
-
 **Digital Metadata Assistant**
+
+DePaul University, John T. Richardson Library, Chicago, IL				
 
 *January 2014 – August 2016*
 
 ## The Library of Congress, John W. Kluge Center
 
-The John W. Kluge Center at the Library of Congress, Washington, D.C.
-
 **Junior Fellow Intern- Knowledge for the Public Good**
+
+The John W. Kluge Center at the Library of Congress, Washington, D.C.
 
 *June 2015 – August 2015*
 
@@ -72,7 +72,7 @@ Swatscheno, J. (2021). Publishing Public Health Grey Literature Using Figshare. 
 
 Hanneke, R., Swatscheno, J. (2021). Reports, Infographics, Policy Briefs, and More: Marketing an IR to Creators of Grey Literature at UIC. Presented at the Medical Institutional Repositories in Libraries Symposium, Online.
 
-Bonn, M., Tracy, D., Thoms-Houston, M., Swatscheno, J. (2019). Platforms and People: Building a Publishing House in the Library. Presented at the Library Publishing Forum, Vancouver, B.C.
+Bonn, M., Tracy, D., Thomas-Houston, M., Swatscheno, J. (2019). Platforms and People: Building a Publishing House in the Library. Presented at the Library Publishing Forum, Vancouver, B.C.
 
 Swatscheno, J. & Vasquez, H. (2018). SourceLab: Collaborative Open Educational Practices in an Undergraduate Digital History Course. Presented at the Open Education Conference, Niagara Falls, NY.
 
@@ -92,14 +92,15 @@ Swatscheno, J. & Bonn, M. (2017). Humanities Without Walls: Understanding the Ne
 # Professional Service
 ## Library Publishing Coalition
 * Library Publishing Board Member (2022-present)
-  * President (2022-2023)
+  * **President** (2022-2023)
 * Library Publishing Research Committee Member (2021-2022)
 * Library Publishing Directory Committee Member (2018-2021)
-  * Chair (2020-2021)
+  * **Chair** (2020-2021)
 * Directory of Open Access Journals Taskforce Member (2017-2018)
 * Library Publishing Forum Diversity Subcommittee Member (2018)
 * Developing A Curriculum to Advance Library-Based Publishing: Policy Team (2017-2018)
+
 ## Consortium of Academic Libraries in Illinois (CARLI)
 * Open Educational Resources Committee (2017-2022)
-  * Co-chair (2019-2021)
+  * **Co-chair** (2019-2021)
 

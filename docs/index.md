@@ -92,7 +92,7 @@ Swatscheno, J. & Bonn, M. (2017). Humanities Without Walls: Understanding the Ne
 # Professional Service
 ## Library Publishing Coalition
 * Library Publishing Board Member (2022-present)
-  * **President** (2022-2023)
+  * **President** (2024-2025)
 * Library Publishing Research Committee Member (2021-2022)
 * Library Publishing Directory Committee Member (2018-2021)
   * **Chair** (2020-2021)

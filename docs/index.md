@@ -100,6 +100,9 @@ Swatscheno, J. & Bonn, M. (2017). Humanities Without Walls: Understanding the Ne
 * Library Publishing Forum Diversity Subcommittee Member (2018)
 * Developing A Curriculum to Advance Library-Based Publishing: Policy Team (2017-2018)
 
+## Association of Research Libraries
+* Kaleidescope Mentor (2023-2025)
+
 ## Consortium of Academic Libraries in Illinois (CARLI)
 * Open Educational Resources Committee (2017-2022)
   * **Co-chair** (2019-2021)
